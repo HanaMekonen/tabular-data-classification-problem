@@ -4,7 +4,8 @@ This repository contains the full pipeline for tabular data classifying using hi
 
 ##📁 Project Structure
 
-knee-classification/
+```
+classification/
 ├── data/                # Original datasets
 │   ├── train.csv
 │   ├── test.csv
@@ -20,7 +21,7 @@ knee-classification/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project description (this file)
 └── .gitignore           # Files to ignore in Git
-
+```
 ## 🔧 Setup Instructions
 
 Clone the repository:
